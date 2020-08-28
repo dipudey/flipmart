@@ -13,6 +13,7 @@
 ### php artisan key:generate
 then
 ### php artisan serve
+### npm run watch
 
 ## About Laravel
 
